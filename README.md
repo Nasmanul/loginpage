@@ -1,3 +1,3 @@
 # loginpage
 
-This is a single page using PHP and mysql as backend
+This is a simple login page using PHP and mysql as backend
